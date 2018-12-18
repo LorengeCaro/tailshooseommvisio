@@ -1,0 +1,500 @@
+unconventional programming paradigms international workshop upp 2004 le mont saint michel france september 15 17 2004 revised selected and invited papers
+trust privacy and security in digital business second international conference trustbus 2005 copenhagen denmark august 22 26 2005 proceedings
+embedded computer systems architectures modeling and simulation 8th international workshop samos 2008 samos greece july 21 24 2008 proceedings
+computer vision computer graphics collaboration techniques third international conference mirage 2007 rocquencourt france march 28 30 2007 proceedings
+the internet of the future 15th open european summer school and ifip tc66 workshop eunice 2009 barcelona spain september 7 9 2009 proceedings
+stabilization safety and security of distributed systems 13th international symposium sss 2011 grenoble france october 10 12 2011 proceedings
+spectral theory in inner product spaces and applications 6th workshop on operator theory in krein spaces and operator polynomials berlin december 2006
+webkdd 2002 mining web data for discovering usage patterns and profiles 4th international workshop edmonton canada july 23 2002 revised papers
+co created effective agile and trusted eservices 15th international conference on electronic commerce icec 2013 turku finland august 13 15 2013 proceedings
+machine learning and knowledge discovery in databases european conference ecml pkdd 2013 prague czech republic september 23 27 2013 proceedings part iii
+advances in security of information and communication networks first international conference secnet 2013 cairo egypt september 3 5 2013 proceedings
+euro par 2007 workshops parallel processing hppc 2007 unicore summit 2007 and vhpc 2007 rennes france august 28 31 2007 revised selected papers
+iutam iacm iabem symposium on advanced mathematical and computational mechanics aspects of the boundary element method held in cracow poland 31 may 3 june 1999
+financial mathematics lectures given at the 3rd session of the centro internazionale matematico estivo cime held in bressanone italy july 8 13 1996
+pharming promises and risks of biopharmaceuticals derived from genetically modified plants and animals ethics of science and technology assessment
+engineering societies in the agents world vii 7th international workshop esaw 2006 dublin ireland september 6 8 2006 revised selected and invited papers
+quaternary geology and permafrost along the richardson and glen highways between fairbanks and anchorage alaska fairbanks to anchorage alaska july 1 7 1989
+reconfigurable computing architectures tools and applications 5th international workshop arc 2009 karlsruhe germany march 16 18 2009 proceedings
+formal techniques for networked and distributed systems forte 2007 27th ifip wg 61 international conference tallinn estonia june 27 29 2007 proceedings
+operations research models in quantitative finance proceedings of the xiii meeting euro working group for financial modeling university of cyprus nicosia cyprus
+energy minimization methods in computer vision and pattern recognition 4th international workshop emmcvpr 2003 lisbon portugal july 7 9 2003 proceedings
+testing techniques in software engineering second pernambuco summer school on software engineering psse 2007 recife brazil december 3 7 2007 revised lectures
+high performance embedded architectures and compilers second international conference hipeac 2007 ghent belgium january 28 30 2007 proceedings
+generative and transformational techniques in software engineering international summer school gttse 2005 braga portugal july 4 8 2005 revised papers
+haptics perception devices mobility and communication international conference eurohaptics 2012 tampere finland june 13 15 2012 proceedings part i
+topics in almost hermitian geometry and related fields proceedings in honor of professor k sekigawas 60th birthday niigata japan 1 3 november 2004
+john gays the beggar s opera 1728 2004 adaptations and re writings internationale forschungen zur allgemeinen und vergleichenden literaturwissenschaft
+enchiridion symbolorum definitionum et declarartionum de rebus fidei et morum versio 42 kompendium der glaubensbekenntnisse und kirchlichen lehrentscheidungen 42b
+quantum systems in chemistry and physics volume 1 basic problems and model systems granada spain 1998 progress in theoretical chemistry and physics
+making globally distributed software development a success story international conference on software process icsp 2008 leipzig germany may 10 11 2008 proceedings
+information technology in health care socio technical approaches 2010 from safe systems to patient safety studies in health technology and informatics
+geological resources and good governance in sub saharan africa holistic approaches to transparency and sustainable development in the extractive sector
+machine learning and knowledge discovery in databases european conference ecml pkdd 2013 prague czech republic september 23 27 2013 proceedings part ii
+interactive environments with open source software 3d walkthroughs und augmented reality for architects with blender 243 dart 30 and artoolkit 272
+topics in current chemistry 228 dendrimers v functional and hyperbranched building blocks photophysical properties applications in materials and life sciences
+gesetzlich versichert trotzdem privatpatient besser versorgt mit der richtigen zusatzversicherung walhalla und praetoria 2008isbn 9783802974106144s
+theoretical computer science 7th ifip tc 1 wg 22 international conference tcs 2012 amsterdam the netherlands september 26 28 2012 proceedings
+heinkelhe 111 h undhe 111 pu dkurzbetreibsanleitung kba f1 zweiter teil bedienung der technischen einrichtungen beim start und wahrend des fluges
+domus bolezlai values and social identity in dynastic traditions of medieval poland c966 1138 east central and eastern europe in the middle ages 450 1450
+embedded computer systems architectures modeling and simulation 7th international workshop samos 2007 samos greece july 16 19 2007 proceedings
+trends in practical applications of agents and multiagent systems 11th international conference on practical applications of agents and multi agent systems
+structural information and communication complexity 19th international colloquium sirocco 2012 reykjavik iceland june 30 july 2 2012 revised selected papers
+scaling topic maps third international conference on topic maps research and applications tmra 2007 leipzig germany october 11 12 2007 revised selected papers
+critical information infrastructures security first international workshop critis 2006 samos greece august 31 september 1 2006 revised papers
+digital information processing and communications international conference icdipc 2011 ostrava czech republic july 7 9 2011 proceedings part i
+foundations of information and knowledge systems third international symposium foiks 2004 wilheminenburg castle austria february 17 20 2004 proceedings
+emerging technologies in knowledge discovery and data mining pakdd 2007 international workshops nanjing china may 22 25 2007 revised selected papers
+graphics recognition recent advances and new opportunities 7th international workshop grec 2007 curitiba brazil september 20 21 2007 selected papers
+artificial intelligence methodology systems and applications 13th international conference aimsa 2008 varna bulgaria september 4 6 2008 proceedings
+the large wavelength deformations of the lithosphere materials for a history of the evolution of thought from the earliest times to plate tectonics gsa memoir 196
+distributed applications and interoperable systems 5th ifip wg 61 international conference dais 2005 athens greece june 15 17 2005 proceedings
+mathematical theory and computational practice 5th conference on computability in europe cie 2009 heidelberg germany july 19 24 2009 proceedings
+science and civilisation in china volume 5 chemistry and chemical technology part 4 spagyrical discovery and invention apparatus theories and gifts
+task models and diagrams for user interface design 8th international workshop tamodia 2009 brussels belgium september 23 25 2009 revised selected papers
+constitutional documents of portugal and spain 1808 1845 constitutions of the world from late 18th century to the middle of the 19th century europe
+autonomic computing and communications systems third international icst conference autonomics 2009 limassol cyprus september 9 11 2009 revised selected papers
+transformational change in higher education positioning colleges and universities for future success tiaa cref institute series on higher education
+current trends in web engineering 10th international conference on web engineering icwe 2010 workshops vienna austria july 2010 revised selected papers
+agent and multi agent systems technologies and applications 4th kes international symposium kes amsta 2010 gdynia poland june 23 25 2010 proceedings part ii
+search for neutral mssm higgs bosons decaying to tausup tausup pairs in proton proton collisions at quaare root s 7 tev with the atlas detector
+micai 2004 advances in artificial intelligence third mexican international conference on artificial intelligence mexico city mexico april 26 30 2004 proceedings
+database and expert systems applications 21th international conference dexa 2010 bilbao spain august 30 september 3 2010 proceedings part ii
+modeling and simulation in engineering economics and management international conference ms 2012 new rochelle ny usa may 30 june 1 2012 proceedings
+web age information management waim 2010 international workshops iwgd 2010 xmldm 2010 wcmt 2010 jiuzhaigou valley china july 15 17 2010 revised selected papers
+logos of phenomenology and phenomenology of the logos book four the logos of scientific interrogation participating in nature life sharing in life
+ansi std c3760 1981 ieee standard requirements for overhead pad mounted dry vault and submersible automatic circuit reclosers and fault interrupters for ac
+engineering societies in the agents world iv 4th international workshops esaw 2003 london uk october 29 31 2003 revised selected and invited papers
+service assurance with partial and intermittent resources first international workshop sapir 2004 fortaleza brazil august 1 6 2004 proceedings
+information and communication technologies 18th eunice ifip wg 62 66 international conference eunice 2012 budapest hungary august 29 31 2012 proceedings
+business information systems workshops bis 2012 international workshops and future internet symposium vilnius lithuania may 21 23 2012 revised papers
+equivalence of weak dirichlets principle the method of weak solutions and perrons method towards classical solutions of dirichlets problem for harmonic functions
+machine learning and knowledge discovery in databases european conference ecml pkdd 2008 antwerp belgium september 15 19 2008 proceedings part i
+electron microscopy xiv selected peer reviewed papers from the xiv international conference on electron microscopy em2011 june 26 30 2011 wisla poland
+current topics in artificial intelligence 11th conference of the spanish association for artificial intelligence caepia 2005 santiago de compostela
+agent oriented software engineering iii third international workshop aose 2002 bologna italy july 15 2002 revised papers and invited contributions
+constructing ambient intelligence ami 2007 workshops darmstadt germany november 7 10 2007 revised papers communications in computer and information science
+the safety of probabilistic safety assessment and probabilistic safety criteria in nuclear power plant safety safety international atomic energy
+principles and practice of semantic web reasoning 4th international workshop ppswr 2006 budva montenegro june 10 11 2006 revised selected papers
+the analysis of linear partial differential operators differential operators with constant coefficients grundlehren der mathematischen wissenschaften v 2
+knowledge discovery in inductive databases 4th international workshop kdid 2005 porto portugal october 3 2005 revised selected and invited papers
+nolten the painter a novella in two parts studies in german literature linguistics and culture studies in german literature linguistics and culture
+web information systems and technologies 7th international conference webist 2011 noordwijkerhout the netherlands may 6 9 2011 revised selected papers
+electronic design automation frameworks proceedings of the fourth international ifip wg 105 working conference on electronic design automation frameworks
+implementation and application of automata 10th international conference ciaa 2005 sophia antipolis france june 27 29 2005 revised selected papers
+computational linguistics and intelligent text processing 9th international conference cicling 2008 haifa israel february 17 23 2008 proceedings
+computer vision computer graphics collaboration techniques 5th international conference mirage 2011 rocquencourt france october 10 11 2011 proceedings
+topics in acoustic echo and noise control selected methods for the cancellation of acoustical echoes the reduction of background noise and speech processing
+international standart iso 9 information and documentation transliteration of cyrillic characters into latin characters slavic and non slavic languages
+conceptual structures inspiration and application 14th international conference on conceptual structures iccs 2006 aalborg denmark july 16 21
+symbolic and quantitative approaches to reasoning with uncertainty 7th european conference ecsqaru 2003 aalborg denmark july 2 5 2003 proceedings
+human error safety and systems development 7th ifip wg 135 working conference hessd 2009 brussels belgium september 23 25 2009 revised selected papers
+gilbertus universalis glossa ordinaria in lamentationes ieremie prophete prothemata et liber i a critical edition with an introduction and a translation
+tools for high performance computing 2009 proceedings of the 3rd international workshop on parallel tools for high performance computing september 2009 zih dresden
+logic based program synthesis and transformation 15th international symposium lopstr 2005 london uk september 7 9 2005 revised selected papers
+higgins s kotsovolos s raphaely d oracle9i application developers guide lobs using visual basic 0040 part no a88888 01 release 9 0 1 2001
+theory and applications of satisfiability testing 7th international conference sat 2004 vancouver bc canada may 10 13 2004 revised selected papers
+relativistic astrophysics and cosmology einsteins legacy proceedings of the mpe usm mpa eso joint astronomy conference held in munich germany 7 11 november 2005
+the nature of computation logic algorithms applications 9th conference on computability in europe cie 2013 milan italy july 1 5 2013 proceedings
+fossil vertebrates of arabia with emphasis on the late miocene faunas geology and palaeoenvironments of the emirate of abu dhabi united arab emirates
+automatisierung des arbeitsablaufes in der spanabhebenden fertigung untersuchung eines unstetigen nachformsystems mit einem elektrohydraulischen stellglied
+data communications and their performance proceedings of the sixth ifip wg63 conference on performance of computer networks istanbul turkey 1995
+artificial intelligence methodology systems and applications 14th international conference aimsa 2010 varna bulgaria september 8 10 2010 proceedings
+computer supported cooperative work in design iv 11th international conference cscwd 2007 melbourne australia april 26 28 2007 revised selected papers
+reasoning web semantic technologies for software engineering 6th international summer school 2010 dresden germany august 30 september 3 2010 tutorial lectures
+logic based program synthesis and transformation 19th international symposium lopstr 2009 coimbra portugal september 2009 revised selected papers
+das einfache leben wort und motivgeschichtliche untersuchungen zu einem wertbegriff der antiken literatur studienhefte zur altertumswissenschaft 11
+coordination organizations institutions and norms in multi agent systems aamas 2005 international workshops on agents norms and institutions for
+a collection of papers presented at the 1994 ceramic manufacturers and suppliers worskhop ceramic engineering and science proceedings volume 16 issue 3
+verification model checking and abstract interpretation 13th international conference vmcai 2012 philadelphia pa usa january 22 24 2012 proceedings
+chemical information 2 information in chemistry pharmacology and patents 2nd proceedings of the international conference montreux switzerland september 1990
+declarative agent languages and technologies ii second international workshop dalt 2004 new york ny usa july 19 2004 revised selected papers
+international financial reporting standards ifrs 2009 bound volume including international accounting standards iass and interpretations as issued at 1 january 2009
+computational logic in multi agent systems 10th international workshop clima x hamburg germany september 9 10 2009 revised selected and invited papers
+computer science logic 23rd international workshop csl 2009 18th annual conference of the eacsl coimbra portugal september 7 11 2009 proceedings
+design science at the intersection of physical and virtual design 8th international conference desrist 2013 helsinki finland june 11 12 2013 proceedings
+cooperative design visualization and engineering first international conference cdve 2004 palma de mallorca spain september 19 22 2004 proceedings
+transactions of the ninth prague conference information theory statistical decision functions random processes held at prague from june 28 to july 2 1982
+independent component analysis and blind signal separation 6th international conference ica 2006 charleston sc usa march 5 8 2006 proceedings
+how the world computes turing centenary conference and 8th conference on computability in europe cie 2012 cambridge uk june 18 23 2012 proceedings
+riverbank filtration hydrology proceedings of the nato advanced research workshop on riverbank filtration hydrology bratislava slovakia september 2004
+junkers ju 87 b und rbeladung bedienung und wartung der abwurfwaffe heft b einsatz der panzerdurchschlagsbombe pc 1000 rs inju 87 b1 r1 b2 r2 und r4
+mathematical aspects of evolving interfaces lectures given at the cim cime joint euro summer school held in madeira funchal portugal july 3 9 2000
+cellular automata 7th international conference on cellular automata for research and industry acri 2006 perpignan france september 20 23 2006 proceedings
+jewish studies at the turn of the twentieth century proceedings of the 6th eajs congress toledo july 1998 volume 1 biblical rabbinical and medieval studies
+artifical evolution 9th international conference evolution artificielle ea 2009 strasbourg france october 26 28 2009 revised selected papers
+scale space and variational methods in computer vision 4th international conference ssvm 2013 schloss seggau leibnitz austria june 2 6 2013 proceedings
+machine learning and knowledge discovery in databases european conference ecml pkdd 2010 barcelona spain september 20 24 2010 proceedings part iii
+the analysis of linear partial differential operators ii differential operators with constant coefficients grundlehren der mathematischen wissenschaften v 2
+models in software engineering workshops and symposia at models 2007 nashville tn usa september 30 october 5 2007 reports and revised selected papers
+highlights in practical applications of agents and multiagent systems 9th international conference on practical applications of agents and multiagent systems
+auctions market mechanisms and their applications second international icst conference amma 2011 newyork ny usa august 22 23 2011 revised selected papers
+computational linguistics and intelligent text processing 13th international conference cicling 2012 new delhi india march 11 17 2012 proceedings part ii
+multicore software engineering performance and tools international conference musepat 2013 st petersburg russia august 19 20 2013 proceedings
+designing for change in networked learning environments proceedings of the international conference on computer support for collaborative learning 2003
+wissen managen in formal organisierten sozialsystemen der einfluss von erwartungsstrukturen auf die wissensretention aus systemtheoretischer perspektive
+smart card research and advanced applications 8th ifip wg 88 112 international conference cardis 2008 london uk september 8 11 2008 proceedings
+language and learning in the international university from english uniformity to diversity and hybridity languages for intercultural communication and education
+chemical thermodynamics of compounds and complexes of u np pu am tc se ni and zr with selected organic ligands volume 9 chemical thermodynamics
+embedded computer systems architectures modeling and simulation 6th international workshop samos 2006 samos greece july 17 20 2006 proceedings
+continuum thermomechanics the art and science of modelling material behavior a volume dedicated to paul germain on the occasion of his 80th birthday
+perception and interactive technologies international tutorial and research workshop pit 2006 kloster irsee germany june 19 21 2006 proceedings
+shared services business process outsourcing und offshoring die moderne ausgestaltung des back office wege zu kostensenkung und mehr effizienz im unternehmen
+proceedings of the second annual society lecture series on frontiers of science and society ceramic engineering and science proceedings volume 13 issue 11 12
+scripting computer supported collaborative learning cognitive computational and educational perspectives computer supported collaborative learning series
+computer aided systems theory eurocast 2009 12th international conference las palmas de gran canaria spain february 15 20 2009 revised selected papers
+cognitive agents for virtual environments first international workshop cave 2012 held at aamas 2012 valencia spain june 4 2012 revised selected papers
+machine learning and knowledge discovery in databases european conference ecml pkdd 2010 barcelona spain september 20 24 2010 proceedings part i
+modeling communication with robots and virtual humans second zif research group 2005 2006 international workshop on embodied communication in humans
+anaphora analysis algorithms and applications 6th discourse anaphora and anaphor resolution colloquium daarc 2007 lagos portugal march 29 30 2007
+the organic gardeners handbook of natural insect and disease control a complete problem solving guide to keeping your garden and yard healthy without chemicals
+heredity produced at the crossroads of biology politics and culture 1500 1870 transformations studies in the history of science and technology
+adaptive multimedia retrieval user context and feedback third international workshop amr 2005 glasgow uk july 28 29 2005 revised selected papers
+the semantic web research and applications 5th european semantic web conference eswc 2008 tenerife canary islands spain june 1 5 2008 proceedings
+logic for programming artificial intelligence and reasoning 15th international conference lpar 2008 doha qatar november 22 27 2008 proceedings
+adoption of environmental innovations the dynamics of innovation as interplay between business competence environmental orientation and network involvement
+computational neuroscience cortical dynamics 8th international summer school on neural nets erice italy october 31 november 6 2003 revised lectures
+implementation and application of automata 12th international conference ciaa 2007 praque czech republic july 16 18 2007 revised selected papers
+symbolic and quantitative approaches to reasoning with uncertainty 8th european conference ecsqaru 2005 barcelona spain july 6 8 2005 proceedings
+algorithms and architectures for parallel processing 11th international conference ica300 2011 melbourne australia october 24 26 2011 proceedings part ii
+energy efficiency in large scale distributed systems cost ic0804 european conference ee lsds 2013 vienna austria april 22 24 2013 revised selected papers
+computational flight testing results of the closing symposium of the german research initiative comflite braunschweig germany june 11th 12th 2012
+trends in practical applications of agents and multiagent systems 9th international conference on practical applications of agents and multiagent systems
+optimization based computer aided modelling and design proceedings of the first working conference of the ifip tc 76 working group the hague the netherlands 1991
+service oriented computing agents semantics and engineering aamas 2009 international workshop socase 2009 budapest hungary may 11 2009 proceedings
+advances in intelligent data analysis viii 8th international symposium on intelligent data analysis ida 2009 lyon france august 31 september 2 2009 proceedings
+logic based program synthesis and transformation 16th international symposium lopstr 2006 venice italy july 12 14 2006 revised selected papers
+22nd annual conference on composites advanced ceramics materials and structures b ceramic engineering and science proceedings volume 19 issue 4
+a collection of papers presented at the 1981 new england section topical meeting on nonoxide ceramics ceramic engineering and science proceedings volume 3 no 1 2
+agent and multi agent systems technologies and applications third kes international symposium kes amsta 2009 uppsala sweden june 3 5 2009 proceedings
+possible long term health effects of short term exposure to chemical agents chollneaterase reactivators psychochemlcale and irritants and vesicants
+proceedings of the 17th annual conference on composites and advanced ceramic materials part 1 of 2 ceramic engineering and science proceedings volume 14 issue 7 8
+metabolic control in diabetes mellitus beta adrenoceptor blocking drugs nmr analysis of cancer cells immunoassay in the clinical laboratory cyclosporine
+recent trends in algebraic development techniques 18th international workshop wadt 2006 la roche en ardenne belgium june 1 3 2006 revised selected papers
+designing e business systems markets services and networks 7th workshop on e business web 2008 paris france december 13 2008 revised selected papers
+proceedings of the 5th annual conference on composites and advanced ceramic materials ceramic engineering and science proceedings volume 2 issue 7 8
+upper cretaceous and paleogene biostratigraphy and lithostratigraphy of the eastern gulf coastal plain memphis tennessee to atlanta georgia july 20 30 1989
+software process and product measurement international conferences iwsm 2008 metrikon 2008 and mensura 2008 munich germany november 18 19 2008 proceedings
+23rd annual conference on composites advanced ceramics materials and structures a ceramic engineering and science proceedings volume 20 issue 3
+verification model checking and abstract interpretation 7th international conference vmcai 2006 charleston sc usa january 8 10 2006 proceedings
+state and evolution of the baltic sea 1952 2005 a detailed 50 year survey of meteorology and climate physics chemistry biology and marine environment
+proceedings of the 2nd and 3rd annual conference on composites and advanced materials ceramic and engineering science proceedings volume 1 issue 7 8
+machine learning and knowledge discovery in databases european conference ecml pkdd 2013 prague czech republic september 23 27 2013 proceedings part i
+higgins s kotsovolos s raphaely d oracle 9i application developers guide large objects lobs using java jdbc 7 01 2001release 9 0 1670s
+treaty of peace signed at brest litovsk between the central powers and the ukrainian poeples republic together with the supplementary treaty thereto
+proceedings of the twenty eighth annual meeting of the north american chapter of the international group for the psychology of mathematics education
+brain body and machine proceedings of an international symposium on the occasion of the 25th anniversary of the mcgill university centre for intelligent machines
+26th annual conference on composites advanced ceramics materials and structures b ceramic engineering and science proceedings volume 23 issue 4
+computational logic in multi agent systems 5th international workshop clima v lisbon portugal september 29 30 2004 revised selected and invited
+generative and transformational techniques in software engineering iii international summer school gttse 2009 braga portugal july 6 11 2009 revised papers
+chemistry of heterocyclic compounds five member heterocyclic compounds with nitrogen and sulfur or nitrogen sulfur and oxygen except thiazole volume 4
+erzaufbereitungsanlagen in westdeutschland ein fuhrer durch die wichtigsten betriebe fur die aufbereitung von erzen und anderen mineralischen rohstoffen
+conceptual structures inspiration and application 14th international conference on conceptual structures iccs 2006 aalborg denmark july 16 21 2006 proceedings
+technologies for e learning and digital entertainment first international conference edutainment 2006 hangzhou china april 16 19 2006 proceedings
+software and data technologies third international conference icsoft 2008 porto portugal july 22 24 2008 communications in computer and information science
+recent progress in functional analysis proceedings of the international functional analysis meeting on the occasion of the 70th birthday of professor manuel valdivia
+finanzierung risikobehafteter investitionsvorhaben eine vertragstheoretische untersuchung idealtypischer ausgestaltungen eines finanzierungsvetrages
+case based reasoning research and development third international conference on case based reasoning iccbr 99 seeon monastery germany july 27 30 1999 proceedings
+physiological ecology of plants of the wet tropics proceedings of an international symposium held in oxatepec and los tuxtlas mexico june 29 to july 6 1983
+finite state methods and natural language processing 8th international workshop fsmnlp 2009 pretoria south africa july 21 24 2009 revised selected papers
+evolution inclusions and variation inequalities for earth data processing iii long time behavior of evolution inclusions solutions in earth data analysis
+methodik der politischen bildung von der pragmatischen vermittlungstechnologie zur praxisorientierten theorie der kultivierung emanzipatorischen politischen lernens
+trends in practical applications of agents and multiagent systems 8th international conference on practical applications of agents and multiagent systems
+privacy security and trust in kdd first acm sigkdd international workshop pinkdd 2007 san jose ca usa august 12 2007 revised selected papers
+metaheuristics for hard optimization simulated annealing tabu search evolutionary and genetic algorithms ant colonies methods and case studies
+models in software engineering workshops and symposia at models 2011 wellington new zealand october 16 21 2011 reports and revised selected papers
+knowledge discovery in databases pkdd 2005 9th european conference on principles and practice of knowledge discovery in databases porto portugal
+technologies for interactive digital storytelling and entertainment second international conference tidse 2004 darmstadt germany june 24 26 2004 proceedings
+die balanced scorecard als instrument einer modernen controlling konzeption beurteilung und gestaltungsempfehlungen auf der basis des stakeholder ansatzes
+smart card research and advanced application 9th ifip wg 88 112 international conference cardis 2010 passau germany april 14 16 2010 proceedings
+parallel processing and applied mathematics 8th international conference ppam 2009 wroclaw poland september 13 16 2009 revised selected papers part ii
+proceedings of the 16th annual conference on composites and advanced ceramic materials part 2 of 2 ceramic engineering and science proceedings volume 13 issue 9 10
+reasoning web semantic technologies for advanced query answering 8th international summer school 2012 vienna austria september 3 8 2012 proceedings
+applications of evolutionary computing evoworkshops 2004 evobio evocomnet evohot evoisap evomusart and evostoc coimbra portugal april 5 7 2004 proceedings
+externes anwendungsmanagement organisation des lebenszyklus komponentenbasierter mobiler anwendungen information engineering und iv controlling german edition
+environmental software systems frameworks of eenvironment 9th ifip wg 511 international symposium isess 2011 brno czech republic june 27 29 2011 proceedings
+fundamental medical and engineering investigations on protective artificial respiration a collection of papers from the dfg funded research program par
+computer information systems and industrial management 11th ifip tc 8 international conference cisim 2012 venice italy september 26 28 2012 proceedings
+vernetzt kooperative planungsprozesse im konstruktiven ingenieurbau grundlagen methoden anwendungen und perspektiven zur vernetzten ingenieurkooperation
+reconfigurable computing architectures and applications second international workshop arc 2006 delft the netherlands march 1 3 2006 revised selected papers
+advances in bifurcation and degradation in geomaterials proceedings of the 9th international workshop on bifurcation and degradation in geomaterials
+digital information processing and communications international conference icdipc 2011 ostrava czech republic july 7 9 2011 proceedings part ii
+general topology and its relations to modern analysis and algebra iv proceedings of the fourth prague topological symposium 1976 part a invited papers
+advances in neuro information processing 15th international conference iconip 2008 auckland new zealand november 25 28 2008 revised selected papers part i
+software engineering research and applications second international conference sera 2004 los angeles ca usa may 5 7 2004 revised selected papers
+recent advances in constraints 12th annual ercim international workshop on constraint solving and contraint logic programming csclp 2007 rocquencourt
+guidelines for mastering the properties of molecular sieves relationship between the physicochemical properties of zeolitic systems and their low dimensionality
+model based engineering of embedded real time systems international dagstuhl workshop dagstuhl castle germany november 4 9 2007 revised selected papers
+transferring wealth and power from the old to the new world monetary and fiscal institutions in the 17th through the 19th centuries studies in macroeconomic history
+analytical and stochastic modeling techniques and applications 16th international conference asmta 2009 madrid spain june 9 12 2009 proceedings
+gesture based communication in human computer interaction 5th international gesture workshop gw 2003 genova italy april 15 17 2003 selected revised papers
+essential subtleties on the silver sea the yin hai jing wei a chinese classic on ophthalmology comparative studies of health systems and medical care
+proceedings of the conference on raw materials for advanced and engineered ceramics ceramic engineering and science proceedings volume 6 issue 9 10
+algorithmic aspects of wireless sensor networks second international workshop algosensors 2006 venice italy july 15 2006 revised selected papers
+effectiveness of information use for strategic decision making direct effects and moderating influences of perceived environmental uncertainty and cognitive style
+proceedings of the 16th annual conference on composites and advanced ceramic materials part 1 of 2 ceramic engineering and science proceedings volume 13 issue 7 8
+intelligent systems models and applications revised and selected papers from the 9th ieee international symposium on intelligent systems and informatics sisy 2011
+computer science logic 20th international workshop csl 2006 15th annual conference of the eacsl szeged hungary september 25 29 2006 proceedings
+progress in botany fortschritte der botanik structural botany physiology genetics taxonomy geobotany struktur physiologie genetik systematik geobotanik
+high performance computing for computational science vecpar 2012 10th international conference kope japan july 17 20 2012 revised selected papers
+trust privacy and security in digital business 8th international conference trustbus 2011 toulouse france august 29 september 2 2011 proceedings
+international conference on color confinement and hadrons in quantum chromodynamics the institute of physical and chemical research riken japan 21 24 july 2003
+patterns of plant species richness within families and genera in lowland neotropical forests are similarities related to ecological factors or to chance
+languages and compilers for parallel computing 18th international workshop lcpc 2005 hawthorne ny usa october 20 22 2005 revised selected papers
+the transmed atlas the mediterranean region from crust to mantle geological and geophysical framework of the mediterranean and the surrounding areas
+trust privacy and security in digital business 10th international conference trustbus 2013 prague czech republic august 28 29 2013 proceedings
+iea annex 25 real time simulation of hvac systems for building optimisation fault detection and diagnosis building optimisation and faul diagnosis system concept
+reconfigurable computing architectures tools and applications third international workshop arc 2007 mangaratiba brazil march 27 29 2007 proceedings
+26th annual conference on composites advanced ceramics materials and structures a ceramic engineering and science proceedings volume 23 issue 3
+dynamical vision iccv 2005 and eccv 2006 workshops wdv 2005 and wdv 2006 beijing china october 21 2005 graz austria may 13 2006 revised papers
+cooperative information agents iv the future of information agents in cyberspace 4th international workshop cia 2000 boston ma usa july 7 9 2000 proceedings
+agent mediated electronic commerce vi theories for and engineering of distributed mechanisms and systems aamas 2004 workshop amec 2004 new york
+active and programmable networks ifip tc6 7th international working conference iwan 2005 sophia antipolis france november 21 23 2005 revised papers
+parallel processing and applied mathematics 9th international conference ppam 2011 torun poland september 11 14 2011 revised selected papers part i
+okosystem wattenmeer the wadden sea ecosystem austausch transport und stoffumwandlungsprozesse exchange transport and transformation processes
+revolution and order serbia after october 2000 proceedings of the international conference belgrade 2 3 march 2001 yugoslavia prospects and limitations
+biosensors for the environmental monitoring of aquatic systems indicator assays and chemical methods for endocrine disrupting compounds in wastewaters
+fortschritte der chemie organischer naturstoffe progress in the chemistry of organic natural products progres dans la chimie des substances organiques naturelles
+rough sets fuzzy sets data mining and granular computing 13th international conference rsfdgrc 2011 moscow russia june 25 27 2011 proceedings
+evolutionary computation in combinatorial optimization 5th european conference evocop 2005 lausanne switzerland march 30 april 1 2005 proceedings
+highlights on practical applications of agents and multi agent systems 10th international conference on practical applications of agents and multi agent systems
+finite state methods and natural language processing 5th international workshop fsmnlp 2005 helsinki finland september 1 2 2005 revised papers
+security and privacy in ad hoc and sensor networks third european workshop esas 2006 hamburg germany september 20 21 2006 revised selected papers
+heating versus cooling in galaxies and clusters of galaxies proceedings of the mpa eso mpe usm joint astronomy conference held in garching germany 6 11 august 2006
+recent trends in german and european constitutional law german reports presented to the xviith international congress on comparative law utrecht 16 to 22 july 2006
+recent trends in algebraic development techniques 18th international workshop wadt 2006 la roche en ardenne belgium june 1 3 2006 revised selected papers
+automated reasoning with analytic tableaux and related methods 20th international conference tableaux 2011 bern switzerland july 4 8 2011 proceedings
+dop 2000 digital photography workflow handbook using photoshop cs and raw converters for the digital photography workflow bettina and uwe steinmueller
+high confidence software reuse in large systems 10th international conference on software reuse icsr 2008 beijing china may 25 29 2008 proceedings
+the heliosphere through the solar activity cycle springer praxis books astronomy and planetary sciences springer praxis books astronomy and planetary sciences
+nanotechnologies hazards and resource efficiency a three tiered approach to assessing the implications of nanotechnology and influencing its development
+declarative agent languages and technologies first international workshop dalt 2003 melbourne australia july 15 2003 revised selected and invited papers
+organic matter accumulation the organic cyclicities of the kimmeridge clay formation yorkshire gb and the recent maar sediments lac du bouchet france
+pattern recognition applications and methods international conference icpram 2012 vilamoura algarve portugal february 6 8 2012 revised selected papers
+reasoning web semantic technologies for the web of data 7th international summer school 2011 galway ireland august 23 27 2011 tutorial lectures
+bildungsungleichheit revisited bildung und soziale ungleichheit vom kindergarten bis zur hochschule studien zur schul und bildungsforschung band 30
+the exploitation theory of socialism communism the idea that all unearned income rent interest and profit involves economic injustice an extract
+model driven engineering languages and systems 11th international conference models 2008 toulouse france september 28 october 3 2008 proceedings
+business process management workshops bpm 2010 international workshops and education track hoboken nj usa september 13 15 2010 revised selected papers
+hardware and software verification and testing 6th international haifa verification conference hvc 2010 haifa israel october 4 7 2010 revised selected papers
+engineering interactive systems eis 2007 joint working conferences ehci 2007 dsv is 2007 hcse 2007 salamanca spain march 22 24 2007 selected papers
+critical information infrastructures security 4th international workshop critis 2009 bonn germany september 30 october 2 2009 revised papers
+joachim camerarius d j symbola et emblemata tam moralia quam sacra die handschriftlichen embleme von 1587 neudrucke deutscher literaturwerke latin edition
+wireless lan medium access control and physical layer specifications information technology telecommunications and information exchange between systems pt11
+distributed applications and interoperable systems 10th ifip wg 61 international conference dais 2010 amsterdam the netherlands june 7 9 2010 proceedings
+progress in robotics fira roboworld congress 2009 incheon korea august 16 20 2009 proceedings communications in computer and information science
+graphics recognition recent advances and perspectives 5th international workshop grec 2003 barcelona spain july 30 31 2003 revised selected papers
+advances in intelligent data analysis vii 7th international symposium on intelligent data analysis ida 2007 ljubljana slovenia september 6 8 2007 proceedings
+die samaritaner und die bibel the samaritans and the bible historische und literarische wechselwirkungen zwischen biblischen und samaritanischen traditionen
+computing in object oriented parallel environments third international symposium iscope 99 san francisco ca usa december 8 10 1999 proceedings
+machine learning for multimodal interaction first international workshop mlmi 2004 martigny switzerland june 21 23 2004 revised selected papers
+tools for high performance computing 2011 proceedings of the 5th international workshop on parallel tools for high performance computing september 2011 zih dresden
+24th annual conference on composites advanced ceramics materials and structures a ceramic engineering and science proceedings volume 21 issue 3
+energizing management through innovation and entrepreneurship european research and practice routledge studies in innovation organization and technology
+dam maintenance and rehabilitation ii proceedings of the 2nd international congress on dam maintenance and rehabilitation zaragoza spain 23 25 november 2010
+machine learning and knowledge discovery in databases european conference ecml pkdd 2009 bled slovenia september 7 11 2009 proceedings part ii
+logic programming and knowledge representation third international workshop lpkr 97 port jefferson new york usa october 17 1997 selected papers
+pervasive computing and the networked world joint international conference icpca sws 2012 istanbul turkey november 28 30 2012 revised selected papers
+graphics recognition achievements challenges and evolution 8th international workshop grec 2009 la rochelle france july 22 23 2009 selected papers
+computer vision computer graphics collaborationtechniques 4th international conference mirage 2009 rocquencourt france may 4 6 2009 proceedings
+heating versus cooling in galaxies and clusters of galaxies proceedings of the mpa eso mpe usm joint astronomy conference held in garching germany 6 11 august 2006
+lehrbuch der physiologie in einzeldarstellungen physiologie des kreislaufs arteriensystem capillarbett organkreislaufe fetal und placentarkreislauf
+the fish production potential of the baltic sea a new general approach for optimizing fish quota including a holistic management plan based on ecosystem modelling
+progress in artificial intelligence 15th portuguese conference on artificial intelligence epia 2011 lisbon portugal october 10 13 2011 proceedings
+software engineering techniques third ifip tc 2 central and east european conference cee set 2008 brno czech republic october 13 15 2008 revised selected papers
+foundational and practical aspects of resource analysis second international workshop fopara 2011 madrid spain may 19 2011 revised selected papers
+interactive environments with open source software 3d walkthroughs and augmented reality for architects with blender 243 dart 30 and artoolkit 272
+api rp 505 rp for classification of locations for electrical installations at petroleum facilities classified as class i zone 0 zone 1 and zone 2
+agents and data mining interaction 4th international workshop on agents and data mining interaction admi 2009 budapest hungary may 10 152009 revised
+high performance computing for computational science vecpar 2008 8th international conference toulouse france june 24 27 2008 revised selected papers
+formal methods and software engineering 6th international conference on formal engineering methods icfem 2004 seattle wa usa november 8 12 2004 proceedings
+proceedings of the 15th annual conference on composites and advanced ceramic materials part 1 of 2 ceramic engineering and science proceedings volume 12 issue 7 8
+web mining from web to semantic web first european web mining forum ewmf 2003 cavtat dubrovnik croatia september 22 2003 invited and selected revised papers
+advances in hybrid information technology first international conference ichit 2006 jeju island korea november 9 11 2006 revised selected papers
+from animals to animats 9 9th international conference on simulation of adaptive behavior sab 2006 rome italy september 25 29 2006 proceedings
+topics in acoustic echo and noise control selected methods for the cancellation of acoustical echoes the reduction of background noise and speech processing
+knowledge discovery in inductive databases 5th international workshop kdid 2006 berlin germany september 18 2006 revised selected and invited papers
+adaptive multimedia retrieval user context and feedback 4th international workshop amr 2006 geneva switzerland july 27 28 2006 revised selected papers
+privacy in statistical databases unesco chair in data privacy international conference psd 2008 istanbul turkey september 24 26 2008 proceedings
+conceptual structures knowledge visualization and reasoning 16th international conference on conceptual structures iccs 2008 toulouse france july
+compact regs parts 110 and 111 code of federal regulations 21 parts 110 and 111 cgmp in manufacturing packing or holding human food cgmp for dietary supplements
+multimedia content representation classification and security international workshop mrcs 2006 istanbul turkey september 11 13 2006 proceedings
+wireless mobile communication and healthcare second international icst conference mobihealth 2011 kos island greece october 5 7 2011 revised selected papers
+evolution inclusions and variation inequalities for earth data processing iii long time behavior of evolution inclusions solutions in earth data analysis
+generative and transformational techniques in software engineering ii international summer school gttse 2007 braga portugal july 2 7 2007 revised papers
+arithmetical functions an introduction to elementary and analytic properties of arithmetic functions and to some of their almost periodic properties
+proceedings of the 17th annual conference on composites and advanced ceramic materials part 2 of 2 ceramic engineering and science proceedings volume 14 issue 9 10
+agile processes in software engineering and extreme programming 14th international conference xp 2013 vienna austria june 3 7 2013 proceedings
+towards mechanized mathematical assistants 14th symposium calculemus 2007 6th international conference mkm 2007 hagenberg austria june 27 30 2007 proceedings
+algorithmic aspects of wireless sensor networks fourth international workshop algosensors 2008 reykjavik iceland july 2008 revised selected papers
+information retrieval meets information visualization promise winter school 2012 zinal switzerland january 23 27 2012 revised tutorial lectures
+variational geometric and level set methods in computer vision third international workshop vlsm 2005 beijing china october 16 2005 proceedings
+1939 the year that changed everything in lithuanias history on the boundary of two worlds identity freedom moral imagination in the baltics 20
+ieee mtt 02 3 d fdtd design analysis of a 24 ghz polarization diversity printed dipole antenna with integrated balun and polarization switching circuit
+communications and multimedia security 14th ifip tc 6 tc 11 international conference cms 2013 magdeburg germany september 25 26 2013 proceedings
+knowledge discovery and emergent complexity in bioinformatics first international workshop kdecb 2006 ghent belgium may 10 2006 revised selected papers
+deep impact as a world observatory event synergies in space time and wavelength proceedings of the eso vub conference held in brussels belgium 7 10 august 2006
+powers of imagining ignatius de loyola a philosophical hermeneutic of imagining through the collected works of ignatius de loyola with a translation of these works
+trends in practical applications of agents and multiagent systems 10th international conference on practical applications of agents and multi agent systems
+humans with media and the reorganization of mathematical thinking information and communication technologies modeling visualization and experimentation
+radiation protection for particle accelerator facilities recommendations of the national council on radiation protection and measurements ncrp report
+grundlagen des operations research 3 spieltheorie dynamische optimierung lagerhaltung warteschlangentheorie simulation unscharfe entscheidungen
+database and expert systems applications 21st international conference dexa 2010 bilbao spain august 30 september 3 2010 proceedings part i
+on the move to meaningful internet systems 2002 coopis doa and odbase confederated international conferences coopis doa and odbase 2002 proceedings
+cyber security and privacy trust in the digital world and cyber security and privacy eu forum 2013 brussels belgium april 2013 revised selected papers
+advances in steel structures proceedings of the second international conference on advances in steel structures 1 15 17 december 1999 hong kong china
+progressives patterns pedagogy a corpus driven approach to english progressive forms functions contexts and didactics studies in corpus linguistics
+emerging personal wireless communications international federation for information processing volume 195 ifip international federation for information processing
+cool connections with cognitive behavioural therapy encouraging self esteem resilience and well being in children and young people using cbt approaches
+local and metropolitan area networks specific requirements part 11 wireless lan medium access control mac and physical layer phy specifications
+semantic multimedia first international conference on semantics and digital media technologies samt 2006 athens greece december 6 8 2006 proceedings
+semantic multimedia 4th international conference on semantic and digital media technologies samt 2009 graz austria december 2 4 2009 proceedings
+attention and performance in computational vision second international workshop wapcv 2004 prague czech republic may 15 2004 revised selected papers
+advances in database technology edbt 2004 9th international conference on extending database technology heraklion crete greece march 14 18 2004
+digital product and process development systems ifip tc 5 international conference new prolamat 2013 dresden germany october 10 11 2013 proceedings
+software process and product measurement international conferences iwsm 2009 and mensura 2009 amsterdam the netherlands november 4 6 2009 proceedings
+critical information infrastructure security 6th international workshop critis 2011 lucerne switzerland september 8 9 2011 revised selected papers
+beyond loop level parallelism in openmp accelerators tasking and more 6th internationan workshop on openmp iwomp 2010 tsukuba japan june 14 16 2010 proceedings
+allgemeine sinnesphysiologie stellung und bedeutung des sinnesphysiologisghen versuches im bereich der observation des exakten experimentes und der begriffsbildung
+implementation and application of automata 15th international conference ciaa 2010 winnipeg mb canada august 12 15 2010 revised selected papers
+analytical and stochastic modeling techniques and applications 15th international conference asmta 2008 nicosia cyprus june 4 6 2008 proceedings
+agent and multi agent systems technologies and applications 4th kes international symposium kes amsta 2010 gdynia poland june 23 25 2010 proceedings part i
+understanding girls problem behavior how girls delinquency develops in the context of maturity and health co occurring problems and relationships
+information technology in bio and medical informatics second international conference itbam 2011 toulouse france august 31 september 1 2011 proceedings
+public key infrastructures services and applications 8th european workshop europki 2011 leuven belgium september 15 16 2011 revised selected papers
+logic for programming artificial intelligence and reasoning 17th international conference lpar 17 yogyakarta indonesia october 10 15 2010 proceedings
+virtual storytelling using virtual reality technologies for storytelling 4th international conference icvs 2007 saint malo france december 5 7 2007 proceedings
+advances in nonlinear speech processing international conference on non linear speech processing nolisp 2007 paris france may 22 25 2007 revised selected papers
+ambient networks 16th ifip ieee international workshop on distributed systems operations and management dsom 2005 barcelona spain october 24 26 2005 proceedings
+production systems and supply chain management in emerging countries best practices selected papers from the international conference on production research icpr
+computer music modeling and retrieval genesis of meaning in sound and music 5th international symposium cmmr 2008 copenhagen denmark may 19 23 2008 revised papers
+balanced automation systems for future manufacturing networks 9th ifip wg 55 international conference basys 2010 valencia spain july 21 23 2010 proceedings
+agent oriented software engineering ii second international workshop aose 2001 montreal canada may 29 2001 revised papers and invited contributions
+scaling up learning for sustained impact 8th european conference on technology enhanced learning ec tel 2013 paphos cyprus september 17 21 2013 proceedings
+advances in bioinformatics and computational biology 4th brazilian symposium on bioinformatics bsb 2009 porto alegre brazil july 29 31 2009 proceedings
+proceedings of the 12th annual conference on composites and advanced ceramic materials part 1 of 2 ceramic engineering and science proceedings volume 9 issue 7 8
+ess meeting held in alicante spain september 22 25 1996
+handbook of nitride semiconductors and devices materials properties physics and growth handbook of nitride semiconductors and devices vch volume 1
+feedstock recycling of plastics selected papers presented at the third international symposium on feedstock recycling of plastics karlsruhe sept 25 29 2005
+proceedings of the 7th annual conference on composites and advanced ceramic materials ceramic engineering and science proceedings volume 4 issue 9 10
+embedded computer systems architectures modeling and simulation 5th international workshop samos 2005 samos greece july 18 20 2005 proceedings
+molecular nano dynamics vol i spectroscopic methods and nanostructures vol ii active surfaces single crystals and single biocells volume i and ii
+legenden lord john der magische pakt und andere abenteuer von diana gabaldon george r rmartin orson scott card robert hobb und robert silverberg
+computational science and high performance computing iv the 4th russian german advanced research workshop freiburg germany october 12 to 16 2009
+thermal energy storage for sustainable energy consumption fundamentals case studies and design nato science series ii mathematics physics and chemistry
+taxation of hybrid financial instruments and the remuneration derived therefrom in an international and cross border context issues and options for reform
+advances on practical applications of agents and multiagent systems 9th international conference on practical applications of agents and multiagent systems
+reliability and optimization of structural systems proceedings of the sixth ifip wg75 working conference on reliability and optimization of structural systems 1994
+industrial applications of holonic and multi agent systems 6th international conference holomas 2013 prague czech republic august 26 28 2013 proceedings
+principles and practice of semantic web reasoning third international workshop ppswr 2005 dagstuhl castle germany september 11 16 2005 proceedings
+model driven engineering languages and systems 14th international conference models 2011 wellington new zealand october 16 21 2011 proceedings
+article anomalously enhanced photoemission from the dirac point and other peculiarities in the self energy of the surface state quasiparticles in bi2se3
+computational linguistics and intelligent text processing 12th international conference cicling 2011 tokyo japan february 20 26 2011 proceedings part i
+deep impact as a world observatory event synergies in space time and wavelength proceedings of the eso vub conference held in brussels belgium 7 10 august 2006
+logic based program synthesis and transformation 21st international symposium lopstr 2011 odense denmark july 18 20 2011 revised selected papers
+agent mediated electronic commerce v designing mechanisms and systems aamas 2003 workshop amec 2003 melbourne australia july 15 2003 revised selected papers
+the healing voice on the power of prayer faith literature and the science of healing proving to the world that a living faith gives us a practical christianity
+proceedings of the 6th annual conference on composites and advanced ceramic materials ceramic engineering and science proceedings volume 3 issue 9 10
+engineering methods in the service oriented context 4th ifip wg 81 working conference on method engineering me 2011 paris france april 20 22 2011 proceedings
+efficiency and effectiveness of xml tools and techniques and data integration over the web vldb 2002 workshop eextt and caise 2002 workshop diweb revised papers
+requirements engineering foundation for software quality 15th international working conference refsq 2009 amsterdam the netherlands june 8 9 2009 proceedings
+high performance embedded architectures and compilers fourth international conference hipeac 2009 paphos cyprus january 25 28 2009 proceedings
+the missionary self perception of pentecostal charismatic church leaders from the global south in europe global pentecostal and charismatic studies
+mathematical foundations of computer science 2009 34th international symposium mfcs 2009 novy smokovec high tatras slovakia august 24 28 2009 proceedings
+formal methods and software engineering 9th international conference on formal engineering methods icfem 2007 boca raton fl usa november 14 15 2007 proceedings
+prima 2012 principles and practice of multi agent systems 15th international conference kuching sarawak malaysia september 3 7 2012 proceedings
+anaphora processing and applications 8th discourse anaphora and anaphor resolution colloquium daarc 2011 faro portugal october 6 7 2011 revised selected papers
+mathematical morphology and its applications to signal and image processing 11th international symposium ismm 2013 uppsala sweden may 27 29 2013 proceedings
+research and advanced technology for digital libraries 13th european conference ecdl 2009 corfu greece september 27 october 2 2009 proceedings
+string processing and information retrieval 19th international symposium spire 2012 cartagena de indias colombia october 21 25 2012 proceedings
+befundung und nomenklatur bei ultraschalluntersuchungen innerer organe empfehlungen der nomenklaturkommission der sektion innere medizin der degum und der ogum
+formal techniques for networked and distributed systems forte 2006 26th ifip wg 61 international conference paris france september 26 29 2006 proceedings
+current high energy emission around black holes proceedings of the 2nd kias astrophysics workshop korea institute for advanced study september 3 8 2001
+automated reasoning with analytic tableaux and related methods 22nd international conference tableaux 2013 nancy france september 16 19 2013 proceedings
+generative programming and component engineering 4th international conference gpce 2005 tallinn estonia september 29 october 1 2005 proceedings
+evolve a bridge between probability set oriented numerics and evolutionary computation iv international conference held at leiden university july 10 13 2013
+micai 2000 advances in artificial intelligence mexican international conference on artificial intelligence acapulco mexico april 11 14 2000 proceedings
+proceedings of the 7th annual conference on composites and advanced ceramic materials ceramic engineering and science proceedings volume 4 issue 7 8
+dioxygen activation and homogeneous catalytic oxidation proceedings of the fourth international symposium on dioxygen activation and homogeneous catalytic oxidation
+proceedings of the 9th annual conference on composites and advanced ceramic materials ceramic engineering and science proceedings volume 6 issue 7 8
+coordination organizations institutions and norms in agent systems iii coin 2007 international workshops coinaamas 2007 honolulu hi usa may 2007
+advances in bioinformatics and computational biology 4th brazilian symposium on bioinformatics bsb 2009 porto alegre brazil july 29 31 2009 proceedings
+advances in artificial life darwin meets von neumann 10th european conference ecal 2009 budapest hungary september 13 16 2009 revised selected papers part i
+recent trends in wireless and mobile networks third international conferences wimo 2011 and coneco 2011 ankara turkey june 26 28 2011 proceedings
+progress in botany structural botany physiology genetics taxonomy geobotany fortschritte der botanik struktur physiologie genetik systematik geobotanik
+implementation and application of functional languages 19th international workshop ifl 2007 freiburg germany september 27 29 2007 revised selected papers
+advances in multimedia information processing pcm 2004 5th pacific rim conference on multimedia tokyo japan november 30 december 3 2004 proceedings part ii
+cellular automata 6th international conference on cellular automata for research and industry acri 2004 amsterdam the netherlands october 25 28 2004 proceedings
+advances in neuro information processing 15th international conference iconip 2008 auckland new zealand november 25 28 2008 revised selected papers part ii
+numerical analysis and optimization an introduction to mathematical modelling and numerical simulation numerical mathematics and scientific computation
+untersuchungen uber die mikrobiologie des waldbodens erste untersuchungsreihe die elementaren lebenserscheinungen der mikroflora und mikrofauna des waldbodens
+visual information and information systems 8th international conference visual 2005 amsterdam the netherlands july 5 2005 revised selected papers
+formal methods for components and objects 8th international symposium fmco 2009 eindhoven the netherlands november 4 6 2009 revised selected papers
+erfolgreiche suche in medizinischen datenbanken beispiele aus der medizin pharmakologie toxikologie chemie biologie psychiatrie psychologie und soziologie
+management mitarbeiter und kundenmotivation als determinanten der zahlungsbereitschaft von dienstleistungskunden eine empirische mehrebenenanalyse
+fsttcs 2006 foundations of software technology and theoretical computer science 26th international conference kolkata india december 13 15 2006 proceedings
+der einfluss von emotionen auf markenproduktentscheidungen theoretische fundierung und empirische analyse mit hilfe der funktionellen magnetresonanztomographie
+implementation and application of functional languages 21st international symposium ifl 2009 south orange nj usa september 23 25 2009 revised selected papers
+applied algebra algebraic algorithms and error correcting codes 18th international symposium aaecc 18 2009 tarragona spain june 8 12 2009 proceedings
+globalization and the state volume ii trade agreements inequality the environment financial globalization international law and vulnerabilities
+adaptive multimedia retrieval retrieval user and semantics 5th international workshop amr 2007 paris france july 5 6 2007 revised selected papers
+machine learning and knowledge discovery in databases european conference ecml pkdd 2009 bled slovenia september 7 11 2009 proceedings part i
+computational logic in multi agent systems 4th international workshop clima iv fort lauderdale fl usa january 6 7 2004 revised selected and invited papers
+the politics of religion in indonesia syncretism orthodoxy and religious contention in java and bali routledge contemporary southeast asia series
+mobile lightweight wireless systems second international icst conference mobilight 2010 barcelona spain may 10 12 2010 revised selected papers
+information technology in bio and medical informatics third international conference itbam 2012 vienna austria september 4 5 2012 proceedings
+the mermaid and the partridge essays from the copenhagen conference on revising texts from cave four studies on the texts of the desert of judah 96
+electron crystallography novel approaches for structure determination of nanosized materials nato science series ii mathematics physics and chemistry
+pilots handbook of flight operating instructions navy models f4u 1 f3a 1 fg 1 f4u 1c f3a 1d fg 1d f4u 1d airplanesbritish models corsair iii iiiiv
+relativistic models of extended hadrons obeying a mass spin trajectory constraint lectures in mathematical physics at the university of texas at austin
+re conceptualizing enterprise information systems 5th ifip wg 89 working conference confenis 2011 aalborg denmark october 16 18 2011 revised selected papers
+spatial cognition v reasoning action interaction international conference spatial cognition 2006 bremen germany september 24 28 2006 revised selected papers
+open source systems long term sustainability 8th ifip wg 213 international conference oss 2012 hammamet tunisia september 10 13 2012 proceedings
+progress in artificial intelligence 14th portuguese conference on artificial intelligence epia 2009 aveiro portugal october 12 15 2009 proceedings
+advanced processing and manufacturing technologies for structural and multifunctional materials iv ceramic engineering and science proceedings volume 31
+advanced processing and manufacturing technologies for structural and multifunctional materials v ceramic engineering and science proceedings volume 32
+intelligent technologies for interactive entertainment 4th international icst conference intetain 2011 genova italy may 25 27 2011 revised selected papers
+rough sets fuzzy sets data mining and granular computing 12th international conference rsfdgrc 2009 delhi india december 15 18 2009 proceedings
+advanced distributed systems third international school and symposium issads 2004 guadalajara mexico january 24 30 2004 revised selected papers
+communication technologies for vehicles third international workshop nets4cars nets4trains 2011 oberpfaffenhofen germany march 23 24 2011 proceedings
+advances in information and computer security third international workshop on security iwsec 2008 kagawa japan november 25 27 2008 proceedings
+advances in soft computing 9th mexican international conference on artificial intelligence micai 2010 pachuca mexico november 8 13 2010 proceedings part ii
+information technology in bio and medical informatics 4th international conference itbam 2013 prague czech republic august 28 2013 proceedings
+requirements engineering foundation for software quality 18th international working conference refsq 2012 essen germany march 19 22 2012 proceedings
+the apocrypha the missing books of the holy bible rare banned censored illegal religion vatican pope jesus christ church christian rome catholic
+advanced processing and manufacturing technologies for structural and multifunctional materials ceramic engineeing and science proceedingsvolume 28 issue 7
+principles and practice of constraint programming cp 2006 12th international conference cp 2006 nantes france september 25 29 2006 proceedings
+coding theory and applications second international castle meeting icmcta 2008 castillo de la mota medina del campo spain september 15 19 2008 proceedings
+22nd annual conference on composites advanced ceramics materials and structures a ceramic engineering and science proceedings volume 19 issue 3
+the strategic tool for evaluating educational returns investigating the value of customised executive education with a focus on strategy process capability
+languages and compilers for parallel computing 20th international workshop lcpc 2007 urbana il usa october 11 13 2007 revised selected papers
+computer science logic 22nd international workshop csl 2008 17th annual conference of the eacsl bertinoro italy september 16 19 2008 proceedings
+advances in multimedia information processing pcm 2004 5th pacific rim conference on multimedia tokyo japan november 30 december 3 2004 proceedings part i
+whales seals fish and man proceedings of the international symposium on the biology of marine mammals in the north east atlantic 29 november 1 december 1994
+generalized convexity and generalized monotonicity proceedings of the 6th international symposium on generalized convexity monotonicity samos september 1999
+physics of solar planetary environments proceedings of the international symposium on solar terrestrial physics june 7 181976 boulder colorado volume ii
+soviet designed nuclear power plants in russia ukraine lithuania armenia the czech republic the slovak republic hungary and bulgaria source book
+high performance computing and applications second international conference hpca 2009 shanghai china august 10 12 2009 revised selected papers
+underground works under special conditions proceedings of the workshop w1 on underground works under special conditions madrid spain 6 7 july 2007
+a real time in memory discovery service leveraging hierarchical packaging information in a unique identifier network to retrieve track and trace information
+theory and applications of relational structures as knowledge instruments ii international workshops of cost action 274 tarski 2002 2005 selected revised papers
+handbook of nitride semiconductors and devices gan based optical and electronic devices handbook of nitride semiconductors and devices vch volume 3
+scientific applications of grid computing first international workshop sag 2004 beijing china september 20 24 2004 revised selected and invited papers
+application of imaging techniques to mechanics of materials and structures volume 4 proceedings of the 2010 annual conference on experimental and applied mechanics
+structural information and communication complexity 16th international colloquium sirocco 2009 piran slovenia may 25 27 2009 revised selected papers
+constructive side channel analysis and secure design 4th international workshop cosade 2013 paris france march 6 8 2013 revised selected papers
+computational intelligence for multimedia understanding international workshop muscle 2011 pisa italy december 13 15 2011 revised selected papers
+computational processing of the portuguese language 9th international conference propor 2010 porto alegre rs brazil april 27 30 2010 proceedings
+rules and rule markup languages for the semantic web second international workshop ruleml 2003 sanibel island fl usa october 20 2003 proceedings
+knowledge discovery in databases pkdd 2006 10th european conference on principles and practice of knowledge discovery in databases berlin germany
+distributed applications and interoperable systems 12th ifip wg 61 international conference dais 2012 stockholm sweden june 13 16 2012 proceedings
+the semantic web 6th international semantic web conference 2nd asian semantic web conference iswc 2007 aswc 2007 busan korea november 11 15 2007 proceedings
+alltagswissen interaktion und gesellschaftliche wirklichkeit 1 symbolischer interaktionismus und ethnomethodologie 2 ethnotheorie und ethnographie des sprechens
+total synthesis of natural products a sesquidecade of sesquiterpenes total synthesis 1980 1994 part a acyclic and monocyclic sesquiterpenes volume 10
+perception in multimodal dialogue systems 4th ieee tutorial and research workshop on perception and interactive technologies for speech based systems
+bio inspired modeling of cognitive tasks second international work conference on the interplay between natural and artificial computation iwinac 200
+food flavors formation analysis and packaging influences proceedings of the 9th international flavor conference the george charalambous memorial symposium
+radio frequency identification security and privacy issues 9th international workshop rfidsec 2013 graz austria july 9 11 2013 revised selected papers
+the cuban connection drug trafficking smuggling and gambling in cuba from the 1920s to the revolution latin america in translation en traduccion em traducao
+systems and virtualization management standards and new technologies second international workshop svm 2008 munich germany october 21 22 2008 proceedings
+computational linguistics and intelligent text processing 14th international conference cicling 2013 samos greece march 24 30 2013 proceedings part i
